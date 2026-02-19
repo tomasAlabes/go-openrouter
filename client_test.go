@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	openrouter "github.com/revrost/go-openrouter"
+	openrouter "github.com/tomasAlabes/go-openrouter"
 	"github.com/stretchr/testify/require"
 )
 
@@ -27,7 +27,7 @@ func createTestClient(t *testing.T) *openrouter.Client {
 	// Add optional headers if needed
 	return openrouter.NewClient(token,
 		openrouter.WithXTitle("Integration Tests"),
-		openrouter.WithHTTPReferer("https://github.com/revrost/go-openrouter"),
+		openrouter.WithHTTPReferer("https://github.com/tomasAlabes/go-openrouter"),
 	)
 }
 

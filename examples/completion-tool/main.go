@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/revrost/go-openrouter"
-	"github.com/revrost/go-openrouter/jsonschema"
+	"github.com/tomasAlabes/go-openrouter"
+	"github.com/tomasAlabes/go-openrouter/jsonschema"
 )
 
 func main() {

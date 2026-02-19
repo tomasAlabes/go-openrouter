@@ -10,7 +10,7 @@ import (
 
 	"log/slog"
 
-	openrouter "github.com/revrost/go-openrouter"
+	openrouter "github.com/tomasAlabes/go-openrouter"
 	"github.com/stretchr/testify/require"
 )
 

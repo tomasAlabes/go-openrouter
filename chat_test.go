@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	openrouter "github.com/revrost/go-openrouter"
+	openrouter "github.com/tomasAlabes/go-openrouter"
 )
 
 // ChatCompletionMessage json.Marshal tests

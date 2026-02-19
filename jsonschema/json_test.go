@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/revrost/go-openrouter/jsonschema"
+	"github.com/tomasAlabes/go-openrouter/jsonschema"
 )
 
 func TestDefinition_MarshalJSON(t *testing.T) {

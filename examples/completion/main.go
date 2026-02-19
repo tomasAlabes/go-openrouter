@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/revrost/go-openrouter"
+	"github.com/tomasAlabes/go-openrouter"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 # Go Openrouter
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/revrost/go-openrouter.svg)](https://pkg.go.dev/github.com/revrost/go-openrouter)
-[![Go Report Card](https://goreportcard.com/badge/github.com/revrost/go-openrouter)](https://goreportcard.com/report/github.com/revrost/go-openrouter)
+[![Go Reference](https://pkg.go.dev/badge/github.com/tomasAlabes/go-openrouter.svg)](https://pkg.go.dev/github.com/tomasAlabes/go-openrouter)
+[![Go Report Card](https://goreportcard.com/badge/github.com/tomasAlabes/go-openrouter)](https://goreportcard.com/report/github.com/tomasAlabes/go-openrouter)
 [![codecov](https://codecov.io/gh/revrost/go-openrouter/branch/master/graph/badge.svg?token=bCbIfHLIsW)](https://codecov.io/gh/revrost/go-openrouter)
 
 This library provides unofficial Go client for [Openrouter API](https://openrouter.ai/docs/quick-start)
@@ -9,7 +9,7 @@ This library provides unofficial Go client for [Openrouter API](https://openrout
 ## Installation
 
 ```
-go get github.com/revrost/go-openrouter
+go get github.com/tomasAlabes/go-openrouter
 ```
 
 ### Getting an Openrouter API Key:
@@ -54,7 +54,7 @@ package main
 import (
 	"context"
 	"fmt"
-	openrouter "github.com/revrost/go-openrouter"
+	openrouter "github.com/tomasAlabes/go-openrouter"
 )
 
 func main() {
@@ -226,4 +226,4 @@ More examples in `examples/` folder.
 
 ## Contributing
 
-[Contributing Guidelines](https://github.com/revrost/go-openrouter/blob/master/CONTRIBUTING.md), we hope to see your contributions!
+[Contributing Guidelines](https://github.com/tomasAlabes/go-openrouter/blob/master/CONTRIBUTING.md), we hope to see your contributions!

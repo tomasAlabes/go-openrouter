@@ -1,4 +1,4 @@
-module github.com/revrost/go-openrouter
+module github.com/tomasAlabes/go-openrouter
 
 go 1.23
 

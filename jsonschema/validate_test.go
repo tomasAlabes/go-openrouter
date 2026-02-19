@@ -3,7 +3,7 @@ package jsonschema_test
 import (
 	"testing"
 
-	"github.com/revrost/go-openrouter/jsonschema"
+	"github.com/tomasAlabes/go-openrouter/jsonschema"
 )
 
 func Test_Validate(t *testing.T) {
